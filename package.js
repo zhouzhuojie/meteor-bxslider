@@ -1,7 +1,7 @@
 Package.describe({
   summary: "bxslider-4, Responsive jQuery content slider",
   version: "0.4.0",
-  git: "https://github.com/zhouzhuojie/meteor-bxslider",
+  git: "https://github.com/zhouzhuojie/meteor-bxslider.git",
   name: "rexzh0u:bxslider"
 });
 
