@@ -32,5 +32,4 @@ Template.foo.rendered = function() {
 
 More
 -----------
-
 Official Documentation for [bxSlider](http://bxslider.com/).
