@@ -1,6 +1,6 @@
 Package.describe({
   summary: "bxslider-4, Responsive jQuery content slider",
-  version: "0.4.0",
+  version: "0.4.1",
   git: "https://github.com/zhouzhuojie/meteor-bxslider.git",
   name: "rexzh0u:bxslider"
 });
@@ -10,6 +10,8 @@ Package.onUse(function(api) {
   api.use('jquery');
   api.addFiles('lib/bxslider-4/jquery.bxslider.min.js', 'client');
   api.addFiles('lib/bxslider-4/jquery.bxslider.css', 'client');
+  api.addFiles('lib/bxslider-4/images/bx_loader.gif', 'client');
+  api.addFiles('lib/bxslider-4/images/controls.png', 'client');
 });
 
 Package.onTest(function(api) {
