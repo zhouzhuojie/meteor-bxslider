@@ -7,8 +7,6 @@ bxSlider-4 for Meteor
 meteor add rexzh0u:bxslider
 ```
 
-Current version: 0.4.0
-
 Basic usage
 -------------
 
